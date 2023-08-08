@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doomer Site</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <script src="js/main.js"></script>
+<div class="Doomer">
+   <h1>Doomer Site</h1>
+</div>
+<div class="text">
+   <p>This site is for Doomers. You can visit this site every day so that you don't get bored. We wish you more optimism and happiness!</p>
+</div>
+
+
+   <button type="button"
+   onclick="document.getElementById('demo').innerHTML = Date()">
+   Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DI6HgXnyVvRLgZjRw21DcQHaEK%26pid%3DApi&f=1&ipt=9ce48a7f3dd589888c29dd94adf62de2e4a4baac4388b1ebc1f0eb894674c430&ipo=images">
+<div onclick="button()">
+<button class="custom-btn btn-7"><span>Dowloads</span></button>
+</div>  
+
+<div class="h">
+  <h1>Doomer Music</h1>
+</div>
+<br>
+
+  <div onclick="music()">
+   <button class="custom-btnn btn-5"><span>Music 1</span></button>
+  </div>
+  <div onclick="music1()">
+   <button class="custom-btp btn-6"><span>Music 2</span></button>
+  </div>
+  <div onclick="music2()">
+   <button class="custom-bto btn-9">Music 3</button>
+  </div> 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Jw8xaII_Xo9IbsXR6hERPgHaEK%26pid%3DApi&f=1&ipt=b34d4b12f3b649ace8555b252d4d13b3923547636b3937b8367e4c76f4c10c83&ipo=images">
+<br>
+<div class="tx">
+  <h1>Наши СоцСети</h1>
+</div>
+
+<button onclick="telegram()">Subscribe to our channel in Telegram</button>
+<button onclick="youtube()">Subscribe to our YouTube channel</button>
+<button onclick="github()">Subscribe to our channel in GitHub</button>
+<button onclick="discord()">Subscribe to our channel in Discord</button>
+
+</body>
+</html>

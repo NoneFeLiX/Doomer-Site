@@ -1,0 +1,41 @@
+alert("Welcome to Doomer Site!");
+
+function button() {
+  confirm("Скачать изображение?");
+  window.location = 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DI6HgXnyVvRLgZjRw21DcQHaEK%26pid%3DApi&f=1&ipt=9ce48a7f3dd589888c29dd94adf62de2e4a4baac4388b1ebc1f0eb894674c430&ipo=images';
+}
+
+function music() {
+  confirm("Вы уверены что хотите покинуть сайт?");
+  window.location = 'https://www.youtube.com/watch?v=wcaZcbain2s&pp=ygUMZG9vbWVyIG11c2lj';
+}
+
+function music1() {
+  confirm("Вы уверены что хотите покинуть сайт?");
+  window.location = 'https://www.youtube.com/watch?v=6GV9Q_07LCE&pp=ygUMZG9vbWVyIG11c2lj';
+}
+
+function music2() {
+  confirm("Вы уверены что хотите покинуть сайт?");
+  window.location = 'https://www.youtube.com/watch?v=abhxCsVp8BU&pp=ygUMZG9vbWVyIG11c2lj';
+}
+
+function telegram() {
+  confirm("Вы уверены что хотите покинуть сайт?");
+  window.location = 'https://t.me/+an_k4NesPBk3OGFi';
+}
+
+function youtube() {
+  confirm("Вы уверены что хотите покинуть сайт?");
+  window.location = 'https://youtube.com/@0fenix';
+}
+
+function github() {
+  confirm("Вы уверены что хотите покинуть сайт?");
+  window.location = 'https://github.com/NoneFeLiX';
+}
+
+function discord() {
+  confirm("Вы уверены что хотите покинуть сайт?");
+  window.location = 'https://discord.gg/4V9SWPvnbQ';
+}
